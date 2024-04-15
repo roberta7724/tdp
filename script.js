@@ -23,7 +23,7 @@ textAlign(CENTER, CENTER);
 text("2", 120 + 25,50 + 25);
 
 
-fill(255,140,0);
+fill(154,205,50);
 square(190,50,50);
 fill("black");
 textSize(25);
